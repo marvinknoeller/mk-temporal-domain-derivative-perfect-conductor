@@ -1,0 +1,318 @@
+Initialized the inverse problem for star shaped objects on September 11, 2026
+
+---Information about the exact scattering object--- 
+
+The scatterer is a perfect cube with side length 3, centered at the origin
+
+---Information about the incident wave--- 
+
+The incident wave is a plane wave with
+A = [0. 1. 1.] (polarization)
+d = [ 0.57735027  0.57735027 -0.57735027] (direction of propagation)
+
+---Information about the objects in the reconstruction --- 
+
+N = 10 (maximal degree of spherical harmonics for perturbation of boundary)
+refinement = 5 (refinement level)
+origin = [0. 0. 0.] (origin/star point)
+Initial guess of coeffsreal = [[1.77245385 0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.        ]] (coefficients corr. to real(Y_m^n))
+Initial guess of coeffsimag = [[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+  0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+  0. 0. 0. 0. 0. 0. 0.]] (coefficients corr. to imag(Y_m^n))
+
+---The reconstruction starts from now on--- 
+
+(0)Initial L2 error**2 = 3.1691991475133934
+Initial Relative error = 0.9591393367731277
+Initial Reg-term = 0.031415926535897934
+It took 3114.44 seconds to perform a Gauss--Newton step
+
+(1)L2 error**2 = 1.3502023416193156
+Relative error = 0.6260461744863356
+Reg-term = 0.17021243015362497
+It took 3177.54 seconds to perform a Gauss--Newton step
+
+(2)L2 error**2 = 0.784573418821984
+Relative error = 0.47722560015603505
+Reg-term = 0.25442565324096583
+It took 3197.72 seconds to perform a Gauss--Newton step
+
+(3)L2 error**2 = 0.548154202871935
+Relative error = 0.3988947421022766
+Reg-term = 0.2960591395990755
+It took 3168.32 seconds to perform a Gauss--Newton step
+
+(4)L2 error**2 = 0.40906817290361064
+Relative error = 0.3445916766457897
+Reg-term = 0.326434256389356
+It took 3190.61 seconds to perform a Gauss--Newton step
+
+(5)L2 error**2 = 0.33276409480649705
+Relative error = 0.31079581885689617
+Reg-term = 0.3444518312190763
+It took 3173.01 seconds to perform a Gauss--Newton step
+
+(6)L2 error**2 = 0.29178624668207537
+Relative error = 0.29103106360119174
+Reg-term = 0.35480636573139546
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+It took 3173.49 seconds to perform a Gauss--Newton step
+
+(7)L2 error**2 = 0.27011943470785416
+Relative error = 0.2800172935887725
+Reg-term = 0.3605612857579485
+Decrease alpha.
+It took 3190.06 seconds to perform a Gauss--Newton step
+
+(8)L2 error**2 = 0.11300883811649821
+Relative error = 0.18111863755190213
+Reg-term = 0.006912153135082561
+It took 3190.22 seconds to perform a Gauss--Newton step
+
+(9)L2 error**2 = 0.003458158440526428
+Relative error = 0.03168322498319313
+Reg-term = 0.005719321236932163
+It took 3177.98 seconds to perform a Gauss--Newton step
+
+(10)L2 error**2 = 0.0005995863060131899
+Relative error = 0.013192672770449311
+Reg-term = 0.005704513932049759
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+It took 3154.37 seconds to perform a Gauss--Newton step
+
+(11)L2 error**2 = 0.0005535408612550767
+Relative error = 0.012675986857455768
+Reg-term = 0.005685642741247794
+Decrease alpha.
+It took 3177.74 seconds to perform a Gauss--Newton step
+
+(12)L2 error**2 = 0.0014767984303556368
+Relative error = 0.02070463356719163
+Reg-term = 6.739956221238125e-05
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+Reconstruction ended since the relative error is sufficiently small.
+It took 3173.29 seconds to perform a Gauss--Newton step
+
+(13)L2 error**2 = 0.00013342039350561195
+Relative error = 0.006223261442103709
+Reg-term = 6.726675920283083e-05
+Reconstruction ended since the relative error is sufficiently small.

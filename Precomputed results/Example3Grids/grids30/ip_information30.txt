@@ -1,0 +1,241 @@
+Initialized the inverse problem for star shaped objects on September 12, 2026
+
+---Information about the exact scattering object--- 
+
+The scatterer is a perfect cube with side length 3, centered at the origin
+
+---Information about the incident wave--- 
+
+The incident wave is a plane wave with
+A = [0. 1. 1.] (polarization)
+d = [ 0.57735027  0.57735027 -0.57735027] (direction of propagation)
+
+---Information about the objects in the reconstruction --- 
+
+N = 10 (maximal degree of spherical harmonics for perturbation of boundary)
+refinement = 5 (refinement level)
+origin = [0. 0. 0.] (origin/star point)
+Initial guess of coeffsreal = [[1.77245385 0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.
+  0.         0.         0.         0.         0.         0.        ]] (coefficients corr. to real(Y_m^n))
+Initial guess of coeffsimag = [[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+  0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+  0. 0. 0. 0. 0. 0. 0.]] (coefficients corr. to imag(Y_m^n))
+
+---The reconstruction starts from now on--- 
+
+(0)Initial L2 error**2 = 3.515725842707371
+Initial Relative error = 0.9630004836865058
+Initial Reg-term = 0.031415926535897934
+It took 3026.44 seconds to perform a Gauss--Newton step
+
+(1)L2 error**2 = 1.8199668461420744
+Relative error = 0.6928683812022386
+Reg-term = 0.15441487375710225
+It took 3029.49 seconds to perform a Gauss--Newton step
+
+(2)L2 error**2 = 1.2390050245575268
+Relative error = 0.5716833429020917
+Reg-term = 0.23333056369330696
+It took 3054.23 seconds to perform a Gauss--Newton step
+
+(3)L2 error**2 = 0.9799687519093351
+Relative error = 0.5084229174834729
+Reg-term = 0.2759746422681462
+It took 3043.91 seconds to perform a Gauss--Newton step
+
+(4)L2 error**2 = 0.8270183362935419
+Relative error = 0.4670641931117385
+Reg-term = 0.30662253059866373
+It took 3039.19 seconds to perform a Gauss--Newton step
+
+(5)L2 error**2 = 0.7351269326615311
+Relative error = 0.4403522012869115
+Reg-term = 0.32636059859827016
+It took 3022.15 seconds to perform a Gauss--Newton step
+
+(6)L2 error**2 = 0.6798260797674928
+Relative error = 0.4234653842703194
+Reg-term = 0.3389549136427005
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+Decrease alpha.
+It took 3047.58 seconds to perform a Gauss--Newton step
+
+(7)L2 error**2 = 0.6474893452733383
+Relative error = 0.41327136793983915
+Reg-term = 0.3466656833492304
+Decrease alpha.
+It took 3060.36 seconds to perform a Gauss--Newton step
+
+(8)L2 error**2 = 0.5074002721416883
+Relative error = 0.3658426654073721
+Reg-term = 0.007228013907483889
+It took 3042.91 seconds to perform a Gauss--Newton step
+
+(9)L2 error**2 = 0.3148419255545532
+Relative error = 0.2881809605052162
+Reg-term = 0.0057851290308635625
+It took 3062.52 seconds to perform a Gauss--Newton step
+
+(10)L2 error**2 = 0.3083266678753174
+Relative error = 0.2851836015288334
+Reg-term = 0.005819767584973788
+It took 3031.45 seconds to perform a Gauss--Newton step
+
+(11)L2 error**2 = 0.3079496153793678
+Relative error = 0.28500917275826526
+Reg-term = 0.005793965473320654
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+Reconstruction ended since the update is too small and functional is dominated by rel error.
+It took 3093.63 seconds to perform a Gauss--Newton step
+
+(12)L2 error**2 = 0.3079240548323648
+Relative error = 0.2849973442948302
+Reg-term = 0.005797170938091542
+Reconstruction ended since the update is too small and functional is dominated by rel error.
