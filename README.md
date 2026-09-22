@@ -31,4 +31,4 @@ The folder Precomputed results includes all the precomputed results that were co
 
 ## Requirements and additional information
 The numerical examples were run on the Roihu supercomputer provided by CSC-Center of Science, Finland.
-In their current release the examples cannot be run locally. Neither the local Ram the number of workers would suffice.
+In their current release the examples cannot be run locally. Neither the local workspace nor the number of workers would suffice.
