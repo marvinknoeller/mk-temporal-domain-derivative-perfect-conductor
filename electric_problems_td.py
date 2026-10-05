@@ -9,8 +9,6 @@ import bempp.api
 import RK_Data
 import _aux_hpc
 import numpy as np
-import gridfun_operations as gfo
-import correct_space as corr
 import numba
 from cartandsph import spherical_harmonics
 

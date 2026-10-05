@@ -628,11 +628,17 @@ def RKElCQ_MPI_derivative(
                 
                     return s * b
                 
-                ik_hnu_tangH = bempp.api.GridFunction(
-                    div_space, projections=rhs_T2(grid_fun_Htimesnu, h_nu, div_space, deltaEigs[stageInd]), dual_space=div_space
-                )
+                # ik_hnu_tangH = bempp.api.GridFunction(
+                #     div_space, 
+                #     projections=rhs_T2(grid_fun_Htimesnu, 
+                #                        h_nu, 
+                #                        div_space, 
+                #                        deltaEigs[stageInd]), 
+                #     dual_space=curl_space
+                # )
                 
-                ik_hnu_tangH = ik_hnu_tangH.projections(curl_space)
+                # ik_hnu_tangH = ik_hnu_tangH.projections(curl_space)
+                ik_hnu_tangH = rhs_T2(grid_fun_Htimesnu, h_nu, curl_space, deltaEigs[stageInd])
                 # Now assemble the rhs as a GridFunction
                 rhs_h = ik_hnu_tangH + Curl_hnu_Enu
                 # Solve via single layer potential ansatz
