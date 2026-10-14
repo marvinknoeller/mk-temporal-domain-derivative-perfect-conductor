@@ -25,7 +25,9 @@ plot_taylor_test.m
 
 In Section 5.2 the order of the temporal domain derivative's time and space discretization based on a Radau IIA Runge--Kutta convolution quadrature method in time and a Galerkin method in space is validated numerically.
 To do that run first
+
 Convergence-reference.sh
+
 to obtain a reference solution.
 Then, run
 Convergence-time.sh ... for the numerical validation of the Runge--Kutta Convolution quadrature
