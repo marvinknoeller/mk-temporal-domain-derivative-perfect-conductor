@@ -19,8 +19,11 @@ You find all the needed Python and Matlab files in the provided project.
 ## An overview
 In Section 5.2 the decay of the difference quotient, i.e., the validation of the temporal domain derivative is tested.
 To do that run
+
 Taylor-test.sh
+
 and to plot it later,
+
 plot_taylor_test.m
 
 In Section 5.2 the order of the temporal domain derivative's time and space discretization based on a Radau IIA Runge--Kutta convolution quadrature method in time and a Galerkin method in space is validated numerically.
@@ -30,21 +33,33 @@ Convergence-reference.sh
 
 to obtain a reference solution.
 Then, run
+
 Convergence-time.sh ... for the numerical validation of the Runge--Kutta Convolution quadrature
+
 and 
+
 Convergence-space.sh ... for the numerical validation of the Galerkin discretization with (rotated) Raviart--Thomas functions.
+
 Then, use
+
 plot_convergence_test.m
+
 to plot the results.
 
 This work features 3 numerical examples for the shape reconstruction, each with noiseless data, 15% relative noise and 30% relative noise. Run it with
+
 Ex1-1.sh, Ex1-2.sh, Ex1-3.sh,
+
 Ex2-1.sh, Ex2-2.sh, Ex2-3.sh,
+
 Ex3-1.sh, Ex3-2.sh, Ex3-3.sh.
 
 Then, in order to plot the pictures use the Matlab files
+
 plot_reconstruction1.m,
+
 plot_reconstruction1.m,
+
 plot_reconstruction1.m.
 
 
