@@ -1,4 +1,4 @@
-Initialized the inverse problem for star shaped objects on September 12, 2026
+Initialized the inverse problem for star shaped objects on October 12, 2026
 
 ---Information about the exact scattering object--- 
 
@@ -32,39 +32,39 @@ Initial guess of coeffsimag = [[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 
 
 ---The reconstruction starts from now on--- 
 
-(0)Initial L2 error**2 = 3.264950548677942
-Initial Relative error = 0.9602963871326876
+(0)Initial L2 error**2 = 3.2649505486780135
+Initial Relative error = 0.9602963871326943
 Initial Reg-term = 0.031415926535897934
-It took 3018.81 seconds to perform a Gauss--Newton step
+It took 3080.97 seconds to perform a Gauss--Newton step
 
-(1)L2 error**2 = 1.4800162493356948
-Relative error = 0.6465471964374908
-Reg-term = 0.16552908508872452
-It took 3012.82 seconds to perform a Gauss--Newton step
+(1)L2 error**2 = 1.4799590322211869
+Relative error = 0.6465346986279076
+Reg-term = 0.1655375375096851
+It took 3111.63 seconds to perform a Gauss--Newton step
 
-(2)L2 error**2 = 0.90683316862174
-Relative error = 0.5060934182866044
-Reg-term = 0.24877148028983853
-It took 3007.46 seconds to perform a Gauss--Newton step
+(2)L2 error**2 = 0.9066929320550217
+Relative error = 0.5060542845462563
+Reg-term = 0.24879264249403182
+It took 3121.93 seconds to perform a Gauss--Newton step
 
-(3)L2 error**2 = 0.6603874163847058
-Relative error = 0.4318832746735533
-Reg-term = 0.29117847387245643
-It took 2992.9 seconds to perform a Gauss--Newton step
+(3)L2 error**2 = 0.660277221435029
+Relative error = 0.4318472402640324
+Reg-term = 0.291199409856931
+It took 3080.79 seconds to perform a Gauss--Newton step
 
-(4)L2 error**2 = 0.5144940735704012
-Relative error = 0.3812037632142505
-Reg-term = 0.3221537314661113
-It took 3019.03 seconds to perform a Gauss--Newton step
+(4)L2 error**2 = 0.5144614394215794
+Relative error = 0.38119167322307546
+Reg-term = 0.3221579692488227
+It took 3077.22 seconds to perform a Gauss--Newton step
 
-(5)L2 error**2 = 0.4323550047310596
-Relative error = 0.3494517633728331
-Reg-term = 0.34096668688976434
-It took 3033.71 seconds to perform a Gauss--Newton step
+(5)L2 error**2 = 0.4324090695010944
+Relative error = 0.3494736116669711
+Reg-term = 0.34095017156315544
+It took 3070.92 seconds to perform a Gauss--Newton step
 
-(6)L2 error**2 = 0.38712662255223984
-Relative error = 0.3306690215918537
-Reg-term = 0.35203520173965863
+(6)L2 error**2 = 0.38724730106575345
+Relative error = 0.33072055710283776
+Reg-term = 0.3520013646151829
 Decrease alpha.
 Decrease alpha.
 Decrease alpha.
@@ -136,27 +136,27 @@ Decrease alpha.
 Decrease alpha.
 Decrease alpha.
 Decrease alpha.
-It took 2996.79 seconds to perform a Gauss--Newton step
+It took 3074.85 seconds to perform a Gauss--Newton step
 
-(7)L2 error**2 = 0.3627569068746011
-Relative error = 0.3200920118532454
-Reg-term = 0.35830388475391356
+(7)L2 error**2 = 0.36291936107365225
+Relative error = 0.32016367757466224
+Reg-term = 0.3582586093546895
 Decrease alpha.
-It took 2997.96 seconds to perform a Gauss--Newton step
+It took 3114.89 seconds to perform a Gauss--Newton step
 
-(8)L2 error**2 = 0.2046516293018483
-Relative error = 0.24042221520050133
-Reg-term = 0.006956851217685784
-It took 3042.64 seconds to perform a Gauss--Newton step
+(8)L2 error**2 = 0.20490227670337832
+Relative error = 0.24056939888957082
+Reg-term = 0.0069561807571416456
+It took 3063.1 seconds to perform a Gauss--Newton step
 
-(9)L2 error**2 = 0.08104626441984136
-Relative error = 0.15129810625159612
-Reg-term = 0.005735083233915476
-It took 3022.98 seconds to perform a Gauss--Newton step
+(9)L2 error**2 = 0.0810217039617158
+Relative error = 0.15127517964051085
+Reg-term = 0.005732908239497004
+It took 3068.52 seconds to perform a Gauss--Newton step
 
-(10)L2 error**2 = 0.07746097913534486
-Relative error = 0.1479137276953832
-Reg-term = 0.005740247420629543
+(10)L2 error**2 = 0.07745911254559268
+Relative error = 0.14791194553412737
+Reg-term = 0.005740158612776995
 Reconstruction ended since the update is too small and functional is dominated by rel error.
 Reconstruction ended since the update is too small and functional is dominated by rel error.
 Reconstruction ended since the update is too small and functional is dominated by rel error.
@@ -228,9 +228,9 @@ Reconstruction ended since the update is too small and functional is dominated b
 Reconstruction ended since the update is too small and functional is dominated by rel error.
 Reconstruction ended since the update is too small and functional is dominated by rel error.
 Reconstruction ended since the update is too small and functional is dominated by rel error.
-It took 3014.68 seconds to perform a Gauss--Newton step
+It took 3058.72 seconds to perform a Gauss--Newton step
 
-(11)L2 error**2 = 0.07736958731333785
-Relative error = 0.14782644442779197
-Reg-term = 0.005724123670287338
+(11)L2 error**2 = 0.07736957429321704
+Relative error = 0.14782643198932355
+Reg-term = 0.0057241283486726266
 Reconstruction ended since the update is too small and functional is dominated by rel error.

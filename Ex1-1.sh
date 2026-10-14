@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH --job-name=example1_noiseless
-#SBATCH --account=project_...
+#SBATCH --account=project_2008159
 #SBATCH --partition=medium
 #SBATCH --time=6:00:00
 #SBATCH --nodes=6

@@ -1,4 +1,4 @@
-Initialized the inverse problem for star shaped objects on September 10, 2026
+Initialized the inverse problem for star shaped objects on October 11, 2026
 
 ---Information about the exact scattering object--- 
 
@@ -35,41 +35,41 @@ Initial guess of coeffsimag = [[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 
 (0)Initial L2 error**2 = 3.9508313345540214
 Initial Relative error = 0.968590590857361
 Initial Reg-term = 0.031415926535897934
-It took 3182.13 seconds to perform a Gauss--Newton step
+It took 3043.82 seconds to perform a Gauss--Newton step
 
-(1)L2 error**2 = 2.886154167075057
-Relative error = 0.827857836075669
-Reg-term = 0.12029388744909598
-It took 3049.4 seconds to perform a Gauss--Newton step
+(1)L2 error**2 = 2.8860853291898083
+Relative error = 0.8278479633663068
+Reg-term = 0.12030233640473881
+It took 3000.08 seconds to perform a Gauss--Newton step
 
-(2)L2 error**2 = 2.30372203424172
-Relative error = 0.7396240750986762
-Reg-term = 0.1882343846192109
-It took 3057.75 seconds to perform a Gauss--Newton step
+(2)L2 error**2 = 2.3033626064267474
+Relative error = 0.739566374596782
+Reg-term = 0.1882808493215682
+It took 2985.26 seconds to perform a Gauss--Newton step
 
-(3)L2 error**2 = 1.5641931392010822
-Relative error = 0.609454361583908
-Reg-term = 0.27788453861616286
-It took 3054.04 seconds to perform a Gauss--Newton step
+(3)L2 error**2 = 1.5636118676913424
+Relative error = 0.6093411110633344
+Reg-term = 0.27794355527280107
+It took 2995.33 seconds to perform a Gauss--Newton step
 
-(4)L2 error**2 = 0.6449713245271979
-Relative error = 0.3913507804549429
-Reg-term = 0.3861980290001332
-It took 3066.51 seconds to perform a Gauss--Newton step
+(4)L2 error**2 = 0.6446073216979423
+Relative error = 0.3912403314391394
+Reg-term = 0.38622943745655747
+It took 2982.32 seconds to perform a Gauss--Newton step
 
-(5)L2 error**2 = 0.26882580160178227
-Relative error = 0.2526570818765628
-Reg-term = 0.43489919010291084
-It took 3057.43 seconds to perform a Gauss--Newton step
+(5)L2 error**2 = 0.2690029994135929
+Relative error = 0.2527403382205864
+Reg-term = 0.4348386341311002
+It took 2985.25 seconds to perform a Gauss--Newton step
 
-(6)L2 error**2 = 0.22023186110454615
-Relative error = 0.22868415561174915
-Reg-term = 0.437470467843883
-It took 3052.3 seconds to perform a Gauss--Newton step
+(6)L2 error**2 = 0.220669644887382
+Relative error = 0.22891133552809503
+Reg-term = 0.4373655911131778
+It took 2985.35 seconds to perform a Gauss--Newton step
 
-(7)L2 error**2 = 0.20015306331355312
-Relative error = 0.21801035482587686
-Reg-term = 0.44011514834505205
+(7)L2 error**2 = 0.20054856675322186
+Relative error = 0.21822564329345326
+Reg-term = 0.44002190430335053
 Decrease alpha.
 Decrease alpha.
 Decrease alpha.
@@ -141,27 +141,27 @@ Decrease alpha.
 Decrease alpha.
 Decrease alpha.
 Decrease alpha.
-It took 3085.88 seconds to perform a Gauss--Newton step
+It took 2983.26 seconds to perform a Gauss--Newton step
 
-(8)L2 error**2 = 0.1933465189538934
-Relative error = 0.21427138647294658
-Reg-term = 0.4411355769769678
+(8)L2 error**2 = 0.19374785297140748
+Relative error = 0.21449365532457193
+Reg-term = 0.4410422573230894
 Decrease alpha.
-It took 3050.66 seconds to perform a Gauss--Newton step
+It took 2993.51 seconds to perform a Gauss--Newton step
 
-(9)L2 error**2 = 0.024658039730360157
-Relative error = 0.07652005528080577
-Reg-term = 0.006153626026971967
-It took 3045.77 seconds to perform a Gauss--Newton step
+(9)L2 error**2 = 0.024983158461856385
+Relative error = 0.07702286561595982
+Reg-term = 0.006154892546523023
+It took 2988.97 seconds to perform a Gauss--Newton step
 
-(10)L2 error**2 = 0.001270865843733024
-Relative error = 0.017371841367099947
-Reg-term = 0.00574597843776474
-It took 3065.11 seconds to perform a Gauss--Newton step
+(10)L2 error**2 = 0.0012859324466248268
+Relative error = 0.017474512888275742
+Reg-term = 0.005745154873791698
+It took 2998.13 seconds to perform a Gauss--Newton step
 
-(11)L2 error**2 = 0.0008504536939118316
-Relative error = 0.01421089193813665
-Reg-term = 0.00579278003901035
+(11)L2 error**2 = 0.000850808203931883
+Relative error = 0.014213853521301754
+Reg-term = 0.005792732931707918
 Decrease alpha.
 Decrease alpha.
 Decrease alpha.
@@ -233,17 +233,17 @@ Decrease alpha.
 Decrease alpha.
 Decrease alpha.
 Decrease alpha.
-It took 3028.85 seconds to perform a Gauss--Newton step
+It took 2997.22 seconds to perform a Gauss--Newton step
 
-(12)L2 error**2 = 0.0008784517029000452
-Relative error = 0.014442918003215137
-Reg-term = 0.005783209260957085
+(12)L2 error**2 = 0.0008789193944749372
+Relative error = 0.014446762228349218
+Reg-term = 0.005783125869416639
 Decrease alpha.
-It took 3092.3 seconds to perform a Gauss--Newton step
+It took 2996.59 seconds to perform a Gauss--Newton step
 
-(13)L2 error**2 = 0.0010242990367243902
-Relative error = 0.015595861984667163
-Reg-term = 6.80826819630812e-05
+(13)L2 error**2 = 0.0010123387181909071
+Relative error = 0.015504541390932068
+Reg-term = 6.80821126649784e-05
 Reconstruction ended since the relative error is sufficiently small.
 Reconstruction ended since the relative error is sufficiently small.
 Reconstruction ended since the relative error is sufficiently small.
@@ -315,9 +315,9 @@ Reconstruction ended since the relative error is sufficiently small.
 Reconstruction ended since the relative error is sufficiently small.
 Reconstruction ended since the relative error is sufficiently small.
 Reconstruction ended since the relative error is sufficiently small.
-It took 3037.34 seconds to perform a Gauss--Newton step
+It took 3032.38 seconds to perform a Gauss--Newton step
 
-(14)L2 error**2 = 0.00010246328455032133
-Relative error = 0.00493264814839101
-Reg-term = 6.825503063517977e-05
+(14)L2 error**2 = 0.00010133910204611307
+Relative error = 0.004905514084431493
+Reg-term = 6.824888882824085e-05
 Reconstruction ended since the relative error is sufficiently small.

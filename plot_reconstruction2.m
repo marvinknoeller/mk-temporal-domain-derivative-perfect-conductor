@@ -4,7 +4,7 @@ clc
 
 for ii = 1 : 3
     if ii == 1
-        grid_folder = 'Example2Grids/grids';
+        grid_folder = 'Example2Grids/grids0';
         exact_file  = 'sawn_cube2.msh';
         iter = 14;
     elseif ii == 2
@@ -14,7 +14,7 @@ for ii = 1 : 3
     else
         grid_folder = 'Example2Grids/grids30';
         exact_file  = 'sawn_cube2.msh';
-        iter = 13;
+        iter = 15;
     end
     eScale      = 0.3;       % colour limits for the error, in mesh units
     nIso        = 9;         % number of contour lines (an odd number includes d = 0)
